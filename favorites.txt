@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza
 hambugers 
 bbq
+=======
+Bullitt
+Goonies 
+Elvira
+>>>>>>> movies
